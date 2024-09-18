@@ -164,7 +164,7 @@ h1,h2,h3,h4,h5
 #home
 	{
         background: url('../images/main_picture/kevin.JPG'),
-        rgba(0,0,0,0.9);
+        rgba(0,0,0,0.8);
         background-size: cover;
         background-repeat: no-repeat;
         background-blend-mode: overlay;
